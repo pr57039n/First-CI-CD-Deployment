@@ -1,2 +1,2 @@
-# kuralabs_deployment_1
+# First deployment
 CI/CD pipeline deployment 1
